@@ -37,10 +37,10 @@ To test your solution, run `npm install` in the root directory and then run `npm
 
 ### 2.3. Submitting your solution
 
-You have 2 options to submit your solution:
+You have 3 options to submit your solution:
 
 1. If you're working on a forked repo, push your changes to your forked repo and submit a pull request to this repo
 2. Send an email with your solution to `natalia.rizzi88@gmail.com`.
-
+3. Send the solution on students slack channel.
 
 
