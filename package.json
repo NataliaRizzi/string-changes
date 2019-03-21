@@ -1,0 +1,23 @@
+{
+  "name": "string-changes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaRizzi/string-changes.git"
+  },
+  "author": "Natalia Rizzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliaRizzi/string-changes/issues"
+  },
+  "homepage": "https://github.com/NataliaRizzi/string-changes#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
